@@ -1,0 +1,23 @@
+@import url(./general.css);
+
+.container {
+    margin-top: 0px;
+  }
+
+  .img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    
+    opacity: 0.3;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .text-container {
+    text-align: left;
+  }

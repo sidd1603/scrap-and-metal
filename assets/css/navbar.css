@@ -1,0 +1,27 @@
+.navbar {
+    background-color: rgb(8, 144, 20) !important;
+    border-color: #000000;
+  }
+.navbar .nav-link {
+color: #ffffff;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+color: #020000;
+}
+.navbar-brand
+
+.navbar-toggler-icon {
+background-color: #c71313;
+}
+
+@media (max-width: 767.98px) {
+.navbar-collapse {
+  background-color: rgb(8, 144, 20) !important;
+}
+
+.navbar-toggler {
+  border-color: #100101;
+}
+}
